@@ -3,8 +3,18 @@
 
 # 💫 About Me:
 I'm Abhijith, a B.Tech student and passionate developer from India 🇮🇳.<br><br>I enjoy building projects that solve real-world problems and experimenting with new technologies.<br><br>If an idea excites me, chances are I'm already coding a prototype for it.<br><br>My main interests are AI, Full-Stack Development, Open Source, and Hackathons.<br><br>Currently exploring modern web technologies, databases, cloud computing, and machine learning.<br><br>I've worked on projects ranging from classroom engagement platforms to AI-powered learning tools.<br><br>
-#What I'm Up To 🚀<br>🤖 AI Enthusiast<br>🏆 Hackathon Participant<br>🌱 Always learning something new<br>
-#Fun Facts ⚡<br>I enjoy turning random ideas into working projects 🔨<br>Debugging at 5 AM somehow feels productive 🎯<br>Coffee isn't mandatory, curiosity is ⚡<br>One Piece is my fav anime 🍖<br>If Claude survives my prompts, production will survive anything 😈<br>Tech Stack 🛠️<br>Frontend: HTML • Next.js • Tailwind CSS<br><br>Backend: Node.js • TypeScript • PostgreSQL<br><br>Languages: JavaScript • TypeScript • Python • C • Java<br><br>Tools: Git • GitHub • VS Code • Linux
+#What I'm Up To 🚀<br>
+- 🤖 AI Enthusiast
+- 🏆 Hackathon Participant<
+- 🌱 Always learning something new
+## Fun Facts ⚡
+- I enjoy turning random ideas into working projects 🔨
+- Debugging at 5 AM somehow feels productive 🎯
+- Coffee isn't mandatory, curiosity is ⚡
+- One Piece is my fav anime 🍖
+- If Claude survives my prompts, production will survive anything 😈
+## Tech Stack 🛠️
+- <br>Frontend: HTML • Next.js • Tailwind CSS<br><br>Backend: Node.js • TypeScript • PostgreSQL<br><br>Languages: JavaScript • TypeScript • Python • C • Java<br><br>Tools: Git • GitHub • VS Code • Linux
 
 
 # 💻 Tech Stack:
